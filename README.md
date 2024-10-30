@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @adeliafebby
-- 👀 I’m interested in data analysis and science data
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in data analysis and data science
 - 📫 How to reach me : adeliafebby7@gmail.com
 
 <!---
